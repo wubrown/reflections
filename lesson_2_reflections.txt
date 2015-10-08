@@ -13,3 +13,6 @@ commit per logical change?
 What are some situations when branches would be helpful 
 in keeping your history organized? How would branches help?
 To begin working on a new version after a stable release
+
+How do the diagrams help you visualize the branch structure?
+They do.
