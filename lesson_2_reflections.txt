@@ -6,3 +6,10 @@ What value do you think it offers?
 SA only contains files that will be added to the next commit.
 One value is the ability to finely tune the content of a
 specific commit via multiple adds prior to the commit.
+
+How can you use the staging area to make sure you have one 
+commit per logical change?
+
+What are some situations when branches would be helpful 
+in keeping your history organized? How would branches help?
+To begin working on a new version after a stable release
