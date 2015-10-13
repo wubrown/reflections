@@ -7,3 +7,5 @@ having Git automatically stay up-to-date with your remote repository?
 If colaborating with others, you may want to review the changes others
 have made to make sure they make sense with the changes you are working on.
 
+Describe the differences between forks, clones, and branches. 
+When would you use one instead of another?
